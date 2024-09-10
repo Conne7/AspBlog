@@ -1,0 +1,11 @@
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\bin\Debug\net8.0\Blog.Domain.deps.json
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\bin\Debug\net8.0\Blog.Domain.dll
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\bin\Debug\net8.0\Blog.Domain.pdb
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfoInputs.cache
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.AssemblyInfo.cs
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.dll
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\refint\Blog.Domain.dll
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\Blog.Domain.pdb
+C:\Users\lolbr\source\repos\Blog\Blog.Domain\obj\Debug\net8.0\ref\Blog.Domain.dll
